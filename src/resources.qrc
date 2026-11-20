@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="Main.qml">Main.qml</file>
+        <file alias="MetricCard.qml">MetricCard.qml</file>
+        <file alias="UsageGraph.qml">UsageGraph.qml</file>
+        <file alias="Legend.qml">Legend.qml</file>
+        <file alias="ShortcutOverlay.qml">ShortcutOverlay.qml</file>
+        <file alias="i18n/en.json">i18n/en.json</file>
+        <file alias="i18n/da.json">i18n/da.json</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Vitals
+Name[da]=Vitals
+Comment=Live CPU, memory, disk, and network usage
+Comment[da]=CPU, hukommelse, disk og netværk lige nu
+Exec=vitals
+Icon=vitals
+Terminal=false
+Categories=System;Monitor;Utility;
+Keywords=system;monitor;cpu;memory;ram;disk;network;usage;
+StartupWMClass=vitals
